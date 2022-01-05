@@ -4,10 +4,11 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Yeseva One', cursive; */
 body {
   font-family: "Poppins", sans-serif;
-  width: 1440px;
   margin: 0;
-  overflow: hidden;
 }
+
+/* ------------- focused section css --------------- */
+
 section {
   margin-top: 45px;
 }
@@ -22,6 +23,9 @@ section {
 .focus-left {
   padding-left: 70px;
   padding-top: 55px;
+}
+.section-child.focus-right img {
+  padding-left: 60px;
 }
 .section-child {
   width: 50%;
@@ -51,4 +55,40 @@ section {
   border-radius: 5px;
   margin-bottom: 80px;
   display: inline-block;
+}
+
+/* ------------- mission section css --------------- */
+.mission h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 45px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  margin: 0px 55px;
+}
+.mission-child {
+  margin: 27px;
+  padding: 25px 11px;
+  border-radius: 24px;
+}
+.mission-child img {
+  width: 141px;
+  height: 141;
+}
+.bc-1 {
+  background-color: #4f9da630;
+}
+.bc-2 {
+  background-color: #ff595929;
+}
+.bc-3 {
+  background-color: #fff4d6;
+}
+.mission-child h3 {
+  padding-left: 20px;
+}
+.mission-child p {
+  padding-left: 20px;
 }
