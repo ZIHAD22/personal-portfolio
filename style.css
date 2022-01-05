@@ -1,0 +1,54 @@
+/* fornt-family-name
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yeseva One', cursive; */
+body {
+  font-family: "Poppins", sans-serif;
+  width: 1440px;
+  margin: 0;
+  overflow: hidden;
+}
+section {
+  margin-top: 45px;
+}
+.focused {
+  display: flex;
+}
+.focused h1 {
+  font-family: "Yeseva One", cursive;
+  font-size: 48px;
+  margin: 20px 0px;
+}
+.focus-left {
+  padding-left: 70px;
+  padding-top: 55px;
+}
+.section-child {
+  width: 50%;
+  margin: 20px;
+}
+.section-child img {
+  width: 60%;
+}
+.color-broder {
+  border-left: 4px solid #ff5959;
+  padding-left: 12px;
+}
+.orange-color {
+  color: #ffad5a;
+}
+.section-child p {
+  margin: 0px 189px 36px 0px;
+}
+/* .section-child p:nth-child(4) {
+  margin-top: 75px;
+} */
+.unversal-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #ff5959;
+  padding: 10px 38px;
+  border-radius: 5px;
+  margin-bottom: 80px;
+  display: inline-block;
+}
