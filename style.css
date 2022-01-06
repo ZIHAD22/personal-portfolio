@@ -175,3 +175,8 @@ section.about img {
   position: relative;
   top: 30px;
 }
+.services-component:hover {
+  background-color: white;
+  box-shadow: 1px 2px 12px 12px #c9cbcd73;
+  transition: 1s;
+}
