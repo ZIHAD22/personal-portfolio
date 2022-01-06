@@ -134,3 +134,44 @@ section.about img {
   width: 100%;
   padding: 100px 0px;
 }
+
+/* ---------------------------  services section css ------------------ */
+
+.services {
+  display: flex;
+}
+.services-left {
+  padding-left: 58px;
+  position: relative;
+  top: 80px;
+}
+.services-component {
+  display: inline-block;
+  text-align: center;
+  width: 245px;
+  padding: 20px;
+  background-color: #c9cbcd73;
+  border-radius: 10px;
+  margin: 0px 15px 15px 0px;
+}
+.services-component p {
+  margin: 0;
+}
+.services-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 42px;
+}
+.services-component .icon {
+  font-size: 44px;
+  background-color: #836b6b4d;
+  padding: 13px;
+  border-radius: 8px;
+}
+.services-left h4 p {
+  color: aliceblue;
+}
+.unic {
+  position: relative;
+  top: 30px;
+}
