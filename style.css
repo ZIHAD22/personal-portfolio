@@ -164,6 +164,9 @@ section.about img {
   font-weight: 800;
   font-size: 42px;
 }
+.services-right {
+  background-image: url(./images/shapes/shape-1.png);
+}
 .services-component .icon {
   font-size: 44px;
   background-color: #836b6b4d;
