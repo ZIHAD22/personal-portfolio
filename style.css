@@ -154,6 +154,7 @@ section.about img {
   background-color: #c9cbcd73;
   border-radius: 10px;
   margin: 0px 15px 15px 0px;
+  transition: 1s;
 }
 .services-component p {
   margin: 0;
@@ -179,7 +180,6 @@ section.about img {
 .services-component:hover {
   background-color: white;
   box-shadow: 1px 2px 12px 12px #c9cbcd73;
-  transition: 1s;
 }
 
 /* Footer Section css */
@@ -191,6 +191,6 @@ footer {
   padding: 10px 0px;
   margin-top: 100px;
 }
-.thak-color{
-  color: #FF5959;
+.thak-color {
+  color: #ff5959;
 }
