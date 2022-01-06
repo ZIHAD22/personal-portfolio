@@ -95,11 +95,17 @@ section {
   display: flex;
 }
 section.about img {
-  padding-left: 145px;
-  width: 65%;
+  padding-left: 70px;
+  width: 75%;
+}
+.about-right p {
+  margin: 0px 64px 36px 0px;
 }
 .about-left {
   border-right: 5px solid #ff595929;
+}
+.about-right {
+  padding-right: 145px;
 }
 .about h1 {
   font-family: "Poppins", sans-serif;
@@ -126,5 +132,5 @@ section.about img {
 }
 .template-left img {
   width: 100%;
-  padding: 55px 0px;
+  padding: 100px 0px;
 }
