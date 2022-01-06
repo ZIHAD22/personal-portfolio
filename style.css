@@ -180,3 +180,13 @@ section.about img {
   box-shadow: 1px 2px 12px 12px #c9cbcd73;
   transition: 1s;
 }
+
+/* Footer Section css */
+
+footer {
+  text-align: center;
+  background-color: #0b0d17;
+  color: white;
+  padding: 10px 0px;
+  margin-top: 100px;
+}
