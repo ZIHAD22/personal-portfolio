@@ -197,3 +197,9 @@ footer {
 .thak-color {
   color: #ff5959;
 }
+footer h1 {
+  font-family: "Lobster", cursive;
+}
+footer p {
+  font-family: "Manrope", sans-serif;
+}
