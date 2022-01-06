@@ -88,3 +88,43 @@ section {
 .mission-child p {
   padding-left: 20px;
 }
+
+/*----------------------------- About section css----------------- */
+
+.about {
+  display: flex;
+}
+section.about img {
+  padding-left: 145px;
+  width: 65%;
+}
+.about-left {
+  border-right: 5px solid #ff595929;
+}
+.about h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 45px;
+}
+.about .name {
+  font-size: 32px;
+}
+
+/* ---------------------------  Template section css ------------------ */
+
+.template {
+  display: flex;
+}
+.template-left {
+  padding-left: 65px;
+  margin-bottom: 40px;
+}
+.template-left h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 42px;
+}
+.template-left img {
+  width: 100%;
+  padding: 55px 0px;
+}
